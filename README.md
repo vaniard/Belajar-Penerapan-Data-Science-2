@@ -87,3 +87,6 @@ Dashboard ini dirancang untuk menyajikan visualisasi yang informatif mengenai be
    - Student Dropout berdasarkan Nacionality :  Menampilkan jumlah mahasiswa dropout berdasarkan kewarganegaraan. 
 
 Berikut link dashboard : https://public.tableau.com/views/STUDENTSDROPOUTANALYTICSDASHBOARD/STUDENTSDROPOUTANALYTICDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## 6. Menjalankan Sistem Machine Learning
+
