@@ -163,7 +163,6 @@ google-cloud-resource-manager==1.14.2
 google-cloud-spanner==3.55.0
 google-cloud-storage==2.19.0
 google-cloud-translate==3.20.3
-google-colab==1.0.0 
 google-crc32c==1.7.1
 google-genai==1.21.1
 google-generativeai==0.8.5
@@ -275,16 +274,9 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
-libcugraph-cu12==25.2.0
-libcuml-cu12==25.2.1
-libcuvs-cu12==25.2.1
-libkvikio-cu12==25.2.1
 libpysal==4.13.0
-libraft-cu12==25.2.0
 librosa==0.11.0
-libucx-cu12==1.18.1
-libucxx-cu12==0.42.0
-lightgbm==4.2.0  
+lightgbm==4.5.0  
 linkify-it-py==2.0.3
 llvmlite==0.43.0
 locket==1.0.0
