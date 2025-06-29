@@ -90,3 +90,6 @@ Berikut link dashboard : https://public.tableau.com/views/STUDENTSDROPOUTANALYTI
 
 ## 6. Menjalankan Sistem Machine Learning
 
+Untuk menjalankan prototipe machine learning yang telah dikembangkan, Anda dapat melakukannya secara lokal. Berikut langkah-langkah menjalankan prototipe secara lokal:
+
+
