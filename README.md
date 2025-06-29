@@ -17,15 +17,24 @@ Tingginya angka putus kuliah menjadi tantangan serius bagi institusi ini. Oleh k
 ## 3. Cakupan Proyek 
 
 1. Persiapan Data dan Exploratory Data Analysis (EDA)
-   Melakukan proses pengumpulan, pembersihan, dan analisis data guna memperoleh       pemahaman menganai faktor-faktor yang mempengaruhi terjadinya dropout. 
+   
+   Melakukan proses pengumpulan, pembersihan, dan analisis data guna memperoleh pemahaman menganai faktor-faktor yang mempengaruhi terjadinya dropout. 
+
 2. Pembuatan Model
-   Merancang model prediktif berbasis machine learning untuk mengidentifikasi         siswa yang memiliki potensi tinggi mengalami dropout.
+
+   Merancang model prediktif berbasis machine learning untuk mengidentifikasi siswa yang memiliki potensi tinggi mengalami dropout.
+
 3. Evaluasi Model
-   Mengukut dan menilai kinerja model guna memastikan tingkat akurasi dalam           memprediksi siswa yang berisiko tidak menyelesaikan studi. 
+
+   Mengukur dan menilai kinerja model guna memastikan tingkat akurasi dalam memprediksi siswa yang berisiko tidak menyelesaikan studi. 
+
 4. Pengembangan Dashboard
-   Membangun dashboard interaktif yang memungkinkan pihak Jaya Jaya Institut          memantau perkembangan akademik siswa secara langsung dan melakukan tindakan        intervensi secara tepat waktu.
+
+   Membangun dashboard interaktif yang memungkinkan pihak Jaya Jaya Institute memantau perkembangan akademik siswa secara langsung dan melakukan tindakan intervensi secara tepat waktu.
+
 5. Pemberian Rekomendasi
-   Menyusun saran strategis berdasarkan temuan analisis guna menekan angka dropout    serta mendukung peningkatan mutu pendidikan di Jaya Jaya Institut.
+
+    Menyusun saran strategis berdasarkan temuan analisis guna menekan angka dropout serta mendukung peningkatan mutu pendidikan di Jaya Jaya Institute.
 
 ## 4. Persiapan
 
@@ -60,13 +69,13 @@ pip install -r requirements.txt
 ```
 ## 5. Business Dashboard
 
-Proyek ini dirancang untuk mengembangkan sistem prediktif yang dapat mendukung Jaya Jaya Institut dalam mengenali mahasiswa yang berpotensi mengalami putus studi (dropout). Sistem ini memanfaatkan berbagai indikator, seperti karakteristik individu, pencapaian akademik, dan faktor sosial-ekonomi, guna memperkirakan kemungkinan seorang mahasiswa tidak melanjutkan pendidikannya.
+Proyek ini dirancang untuk mengembangkan sistem prediktif yang dapat mendukung Jaya Jaya Institute dalam mengenali mahasiswa yang berpotensi mengalami putus studi (dropout). Sistem ini memanfaatkan berbagai indikator, seperti karakteristik individu, pencapaian akademik, dan faktor sosial-ekonomi, guna memperkirakan kemungkinan seorang mahasiswa tidak melanjutkan pendidikannya.
 
 Salah satu komponen utama dalam sistem ini adalah Business Dashboard, yang berfungsi untuk menyajikan visualisasi data secara informatif, sehingga memudahkan pihak institusi dalam mengambil keputusan berbasis data terkait risiko dropout mahasiswa.
 
 ### 5.1 Penjelasan Proyek 
 
-Dashboard ini dirancang untuk menyajikan visualisasi yang informatif mengenai berbagai faktor yang dapat memengaruhi status dropout mahasiswa di Jaya Jaya Institut. Berdasarkan data yang tersedia, dashboard ini bertujuan untuk mendukung pihak institusi dalam mengenali serta memantau faktor-faktor yang berkaitan dengan potensi mahasiswa tidak menyelesaikan studi mereka.
+Dashboard ini dirancang untuk menyajikan visualisasi yang informatif mengenai berbagai faktor yang dapat memengaruhi status dropout mahasiswa di Jaya Jaya Institute. Berdasarkan data yang tersedia, dashboard ini bertujuan untuk mendukung pihak institusi dalam mengenali serta memantau faktor-faktor yang berkaitan dengan potensi mahasiswa tidak menyelesaikan studi mereka.
 
 1. Key Performance Indicators (KPI)
 
@@ -103,6 +112,8 @@ streamlit run app.py
 ```
 - Setelah aplikasi berjalan, Anda dapat memasukkan data sesuai kebutuhan, lalu klik tombol Predict untuk mengetahui status mahasiswa terkait.
 
+Aplikasi dapat juga dijalankan melalui link dan dapat diakses di [Student Dropout Prediction Prototype](https://risk-student-dropout.streamlit.app/)
+
 ## 7. Conclusion
 
 1. Aspek Demografis dan Sosial
@@ -121,7 +132,7 @@ streamlit run app.py
 
    Bruto di daerah asal mahasiswa turut memengaruhi kemampuan mereka untuk melanjutkan studi. Situasi ekonomi yang tidak stabil dapat memperburuk kondisi keuangan mahasiswa dan menjadi     hambatan dalam proses pendidikan.
 
-Dengan memahami berbagai faktor tersebut, proyek ini memberikan wawasan yang berguna bagi Jaya Jaya Institut dalam mengidentifikasi mahasiswa yang berisiko mengalami dropout dan memungkinkan dilakukannya intervensi sejak dini. Keberadaan dashboard interaktif mempermudah pihak institusi dalam memantau indikator risiko secara real-time dan merespons dengan langkah-langkah yang tepat. Melalui pendekatan berbasis data ini, Jaya Jaya Institut dapat lebih inisiatif dalam merancang program dukungan guna meningkatkan tingkat kelulusan mahasiswa.
+Dengan memahami berbagai faktor tersebut, proyek ini memberikan wawasan yang berguna bagi Jaya Jaya Institute dalam mengidentifikasi mahasiswa yang berisiko mengalami dropout dan memungkinkan dilakukannya intervensi sejak dini. Keberadaan dashboard interaktif mempermudah pihak institusi dalam memantau indikator risiko secara real-time dan merespons dengan langkah-langkah yang tepat. Melalui pendekatan berbasis data ini, Jaya Jaya Institute dapat lebih inisiatif dalam merancang program dukungan guna meningkatkan tingkat kelulusan mahasiswa.
 
 ## 8. Rekomendasi Action Items
 
